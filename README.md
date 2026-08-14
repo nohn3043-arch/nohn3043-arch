@@ -11,37 +11,39 @@
 
 ---
 
-### 👤 关于我 / About
-独立研究者与 AI 基础设施开发者，NOHN AI 创始人。
-以**第二视角语言（SPL）**为方法论——决定论因果建模，拒绝概率推测，
-推演"第二现实"：多企业数据中心互联成数字世界网的必然结构。
+### 👤 About Me
 
-Independent researcher & AI-infrastructure developer, founder of NOHN AI.
-Builds with the **Second Perspective Language (SPL)** — deterministic causal
-modeling instead of probabilistic guessing — toward the Second Reality:
-a digital world network formed by converging enterprise data centers.
+Independent researcher and AI-infrastructure developer, founder of NOHN AI.
 
-### 🏢 公司 / Company
+I build with the **Second Perspective Language (SPL)** — deterministic causal
+modeling instead of probabilistic guessing — toward the **Second Reality**:
+a digital world network that emerges as enterprise data centers converge,
+governed by an immutable causal core.
+
+### 🏢 Company
+
 | | |
 |---|---|
-| **NOHN AI TECHNOLOGY PTE LTD** | 新加坡 · 总部 |
-| **上海霖铭均华** | 中国 · 研发实体 |
-| 官网 | nohnlins.com |
-| 联系 | ai@nohnlins.com |
+| **NOHN AI TECHNOLOGY PTE LTD** | Singapore · HQ |
+| **Shanghai Linming Junhua** | China · R&D entity |
+| Website | nohnlins.com |
+| Contact | ai@nohnlins.com |
 
-### 🧩 项目矩阵 / Project Matrix
-| 项目 | 定位 |
+### 🧩 Project Matrix
+
+| Project | Focus |
 |---|---|
-| **SPL-G1** | 通用处理器 · CIM/因果计算 · Python 原生 EDA（PCT/CN2026/094913）|
-| **Second Perspective** | 认知审计引擎 · LLM 安全审计 · IMDA AI Verify 95/100 |
-| **ANTARES** | 联邦身份路由协议 |
-| **Anthropomorphic-Agent-Engine** | 拟人智能体引擎 · SPL Pure Core V8.0 |
-| **SPL-virtual-world-base** | 虚拟世界治理内核（宪法/法律/兼容桥）|
-| **story-engine** | 叙事引擎 |
-| **bias-guard** | 偏见防护 |
-| **Nomos** | 智能决策中台 |
+| **SPL-G1** | General-purpose processor · CIM/causal compute · Python-native EDA (PCT/CN2026/094913) |
+| **Second Perspective** | Cognitive audit engine · LLM safety auditing · IMDA AI Verify 95/100 |
+| **ANTARES** | Federated identity routing protocol |
+| **Anthropomorphic-Agent-Engine** | Anthropomorphic agent engine · SPL Pure Core V8.0 |
+| **SPL-virtual-world-base** | Virtual-world governance kernel (constitution / law / compatibility bridge) |
+| **story-engine** | Narrative engine |
+| **bias-guard** | Bias protection |
+| **Nomos** | Intelligent decision hub |
 
-### 🛠 技术栈 / Stack
+### 🛠 Tech Stack
+
 `Python` `TypeScript` `VSCode Extension` `React Native` `SPL-Core ISA` `Ed25519`
 
 ---
