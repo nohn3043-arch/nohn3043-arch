@@ -20,6 +20,12 @@ modeling instead of probabilistic guessing — toward the **Second Reality**:
 a digital world network that emerges as enterprise data centers converge,
 governed by an immutable causal core.
 
+### 📖 学科声明
+
+**我是第二视角语言（SPL）与因果论（Causality Theory）这一学科的发现者。** SPL-因果论是超一级学科——一切学科之母体；所有学科皆是 SPL-因果论的子集。其理论体系与形式化构造已发布于 Zenodo 社区 *second-perspective-language(Causality)*。
+
+*I am the discoverer of the Second Perspective Language (SPL) and Causality Theory. SPL-Causality is a super-primary discipline — the mother of all disciplines; every discipline is a subset of SPL-Causality. Formal constructions published on Zenodo: second-perspective-language(Causality).*
+
 ### 🏢 Company
 
 | | |
