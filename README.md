@@ -29,7 +29,7 @@ I am the discoverer of the Second Perspective Language (SPL) and Causality Theor
 | | |
 |---|---|
 | **NOHN AI TECHNOLOGY PTE LTD** | Singapore · HQ |
-| **Shanghai Linming Junhua** | China · R&D entity |
+| **Shanghai Linming Junhua Technology Co., Ltd.** | China · R&D entity |
 | Website | nohnlins.com |
 | Contact | ai@nohnlins.com |
 
@@ -39,10 +39,13 @@ I am the discoverer of the Second Perspective Language (SPL) and Causality Theor
 |---|---|
 | **SPL-G1** | General-purpose processor · CIM/causal compute · Python-native EDA (PCT/CN2026/094913) |
 | **Second Perspective** | Cognitive audit engine · LLM safety auditing · IMDA AI Verify 95/100 |
-| **ANTARES** | Federated identity routing protocol |
+| **ANTARES** | Secure communication layer · GFSIP protocol · Ed25519 identity federation |
 | **Anthropomorphic-Agent-Engine** | Anthropomorphic agent engine · SPL Pure Core V8.0 |
+| **your-soulmate** | AI companion · agent memory & mental-state evolution |
+| **Second-Reality** | Digital world network · converges enterprise data centers · immutable causal core |
 | **SPL-virtual-world-base** | Virtual-world governance kernel (constitution / law / compatibility bridge) |
 | **story-engine** | Narrative engine |
+| **ai-draw** | AI draw workbench · cue-word engineering |
 | **bias-guard** | Bias protection |
 | **Nomos** | Intelligent decision hub |
 
